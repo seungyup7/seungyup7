@@ -1,3 +1,17 @@
+### Hi developer, I'm seungyup 👋 
+예술가
+
+개발자
+
+## I'm a seungyup, student, and cheat/crypter Developer!
+
+- 🔭 I just launched my first course
+- 🌱 I’m currently learning everything 🤣
+- 👯 I do everything by myself ㅠㅠ
+- 🥅 2022 Goal: Developing Performance Improvement Cheat Program Developing Improved Encryptor! , And start operating the merchant ship start site, start carding work
+- ⚡ Fun fact: I'm good at singing 🤣
+
+
 ## Profile
 
 Interesting lists
