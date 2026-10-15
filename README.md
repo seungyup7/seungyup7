@@ -1,5 +1,5 @@
 ### Hi developer, I'm seungyup 👋 
-예술가
+정보보안 전문가
 
 개발자
 
@@ -30,10 +30,17 @@ Interesting lists
 <br />
 <br />
  
-# laguages skill :
+# hacking skills :
 
 skill
+- web hacking
+- mobile hacking
 - reverse engineering
+- system hacking
+- web3
+- Cryptography
+- Digital Forensics
+- LLM
 - network hacking
 - Memory bypass
 
